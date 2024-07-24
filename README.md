@@ -1,1 +1,1 @@
-This clustercheck is a modified version of (olafz percona-clustercheck)[https://github.com/olafz/percona-clustercheck] to work with mariadb from 10.11 where the command isnt "mysql" instead its "mariadb".
+This clustercheck is a modified version of [olafz percona-clustercheck](https://github.com/olafz/percona-clustercheck) to work with mariadb from 10.11 where the command isnt "mysql" instead its "mariadb".
